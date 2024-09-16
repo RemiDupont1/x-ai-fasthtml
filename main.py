@@ -21,7 +21,7 @@ def get():
                         "FastHTML is a new next-generation web framework for fast, scalable web applications with minimal, compact code. It builds on top of popular foundations like ASGI and HTMX. You can now deploy FastHTML with Vercel CLI or by pushing new changes to your git repository.",
                     ),
                 ),
-                header=(Titled("FastHTML + Vercel")),
+                header=(Titled("FastHTML + Vercel + remi")),
                 footer=(
                     P(
                         A(
