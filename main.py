@@ -40,6 +40,8 @@ def get():
 
                 Br(),
 
+                Br(),
+
                 Div(id="result"),  # Moved outside of Group
 
                 Br(),
