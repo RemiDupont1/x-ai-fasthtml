@@ -1,5 +1,6 @@
 from fasthtml.common import *
 from datetime import datetime
+import main_X
 
 
 # Set up the app, including daisyui and tailwind for the chat component
@@ -66,6 +67,7 @@ def get():
 @rt("/hello-world", methods=["POST"])
 def hello_world():
     current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    main_X.main()
     return Button( f"Hello World! Button clicked at {current_time}", cls="btn btn-outline btn-success"),
 
 serve()
