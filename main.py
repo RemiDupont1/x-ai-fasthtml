@@ -41,6 +41,9 @@ def get():
                 Br(),
 
                 Div(id="result"),  # Moved outside of Group
+
+                Br(),
+
                 header=(Titled("X-ai-project")),
                 footer=(
                     P(
@@ -53,6 +56,7 @@ def get():
                         "about FastHTML.",
                     )
                 ),
+
             ),
         ),
     )
