@@ -22,12 +22,16 @@ def get():
             Card(
                 Group(
                     P(
-                        "FastHTML is a new next-generation web framework for fast, scalable web applications with minimal, compact code. It builds on top of popular foundations like ASGI and HTMX. You can now deploy FastHTML with Vercel CLI or by pushing new changes to your git repository.",
+                        "Ceci est une démonstration d'intégration en temps réel avec les réseaux sociaux.\n "
+                        "À chaque clic sur le bouton ci-dessous, un post sera publié sur mon compte X."
+                        "Explorez les possibilités offertes par cette intégration !",
                     ),
+                    
+
                 ),
                 Button("Cliquez-moi", hx_post="/hello-world", hx_target="#result", cls="btn btn-warning"),
                 Div(id="result"),  # Moved outside of Group
-                header=(Titled("FastHTML + Vercel + remi")),
+                header=(Titled("X-ai-project")),
                 footer=(
                     P(
                         A(
