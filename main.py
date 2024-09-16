@@ -26,10 +26,20 @@ def get():
                         "À chaque clic sur le bouton ci-dessous, un post sera publié sur mon compte X."
                         "Explorez les possibilités offertes par cette intégration !",
                     ),
+
+
+                    
+
+
                     
 
                 ),
+                Br(),
+                                
                 Button("Cliquez-moi", hx_post="/hello-world", hx_target="#result", cls="btn btn-warning"),
+
+                Br(),
+
                 Div(id="result"),  # Moved outside of Group
                 header=(Titled("X-ai-project")),
                 footer=(
@@ -50,6 +60,6 @@ def get():
 @rt("/hello-world", methods=["POST"])
 def hello_world():
     current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    return P(f"Hello World! Button clicked at {current_time}")
+    return Button( f"Hello World! Button clicked at {current_time}", cls="btn btn-outline btn-success"),
 
 serve()
