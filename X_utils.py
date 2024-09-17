@@ -3,12 +3,6 @@ from datetime import datetime
 import re
 import os
 
-""" consumer_key = "NP3sdcyu8ALve0uBYamqgoUHk" # API
-consumer_secret = "HQuRs41JKOKatJB2JcVuqBvawk5k3tNv3C8vYV7YujEa6pxlD1"
-access_token = "1834568121606369280-D6iRDYPIZsKCXAjx2BUxlak2OXCNKT"
-access_token_secret = "dR6qfuBAyiMYue3yEoafCyURGOTxHGzAlgkca8ROhKpWW"
-bearer_token = "AAAAAAAAAAAAAAAAAAAAAHl8vwEAAAAAqyxtpJscmKcLgyUdGIAxlsZgo2s%3D5p25mYmKd9OG6j5sjOFG0xSes7yXRDCr0lJe8WSnLIjkV2Z4Xf"
- """
 
 
 def clean_tweet_text(text):
@@ -99,13 +93,3 @@ def get_last_10_tweets():
 
     return formatted_tweets
 
-# Example usage:
-# try:
-#     last_tweets = get_last_10_tweets()
-#     for tweet in last_tweets:
-#         print(f"Tweet ID: {tweet['id']}")
-#         print(f"Text: {tweet['text']}")
-#         print(f"Created at: {tweet['created_at']}")
-#         print("---")
-# except Exception as e:
-#     print(f"An error occurred: {e}")

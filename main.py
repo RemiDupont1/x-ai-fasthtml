@@ -5,6 +5,7 @@ from sqlalchemy import create_engine, Column, Integer, DateTime
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
 import time
+import main_X
 
 # Set up the app, including daisyui and tailwind for the chat component
 tlink = Script(src="https://cdn.tailwindcss.com"),
@@ -30,14 +31,7 @@ class Click(Base):
 
 
 # End timing
-end_time = time.time()
 first_time = True
-
-# Calculate and print the execution time
-execution_time = end_time - start_time
-
-
-print(f"Database setup execution time: {execution_time:.6f} seconds")
 
 
 @rt("/")
@@ -120,11 +114,12 @@ def hello_world():
     current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     
     # Save to database
-    session = Session()
-    new_click = Click()
-    session.add(new_click)
-    session.commit()
-    session.close()
+    # session = Session()
+    # new_click = Click()
+    # session.add(new_click)
+    # session.commit()
+    # session.close()
+    main_X.main()
     
     return Button(f"Hello World! Button clicked at {current_time}", cls="btn btn-outline btn-success")
 
