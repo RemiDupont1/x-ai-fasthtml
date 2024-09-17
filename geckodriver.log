@@ -785,3 +785,31 @@ JavaScript warning: https://ads.pubmatic.com/AdServer/js/user_sync.html?gdpr=&gd
 @https://ads.pubmatic.com/AdServer/js/user_sync.html?gdpr=&gdpr_consent=&us_privacy=1NNY&gpp=&gpp_sid=&predirect=https%3A%2F%2Fprebid-server.rubiconproject.com%2Fsetuid%3Fbidder%3Dpubmatic%26gdpr%3D%26gdpr_consent%3D%26us_privacy%3D1NNY%26gpp%3D%26gpp_sid%3D%26account%3D%26f%3Db%26uid%3D:1:118
 @https://ads.pubmatic.com/AdServer/js/user_sync.html?gdpr=&gdpr_consent=&us_privacy=1NNY&gpp=&gpp_sid=&predirect=https%3A%2F%2Fprebid-server.rubiconproject.com%2Fsetuid%3Fbidder%3Dpubmatic%26gdpr%3D%26gdpr_consent%3D%26us_privacy%3D1NNY%26gpp%3D%26gpp_sid%3D%26account%3D%26f%3Db%26uid%3D:1:15871
 
+1726531504367	geckodriver	INFO	Listening on 127.0.0.1:59161
+1726531504706	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... ss" "--remote-debugging-port" "35329" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDcr5XO"
+*** You are running in headless mode.
+Gtk-Message: 17:05:04.749: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1726531505130	Marionette	INFO	Marionette enabled
+1726531505275	Marionette	INFO	Listening on port 35963
+WebDriver BiDi listening on ws://127.0.0.1:35329
+Read port: 35963
+1726531505505	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://cdn.intergient.com/pageos/1.10.65/videoCard.5ed8eb34c11835040def.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/playwireprebidheader597261727146/moatheader.js, line 146: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://7e6f31bc0c573071794a5bf9a4d5d371.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html, line 19: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+1726531513108	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gBVmyuFVevGbjLsodU0USU6vqiWuiE2HzOGr8RudJYo.js line 2 > eval line 909 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gBVmyuFVevGbjLsodU0USU6vqiWuiE2HzOGr8RudJYo.js line 2 > eval line 6063 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gBVmyuFVevGbjLsodU0USU6vqiWuiE2HzOGr8RudJYo.js line 2 > eval line 6085 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Missing chrome or resource URL: chrome://browser/skin/aboutSessionRestore-window-icon.png
+Missing chrome or resource URL: chrome://browser/skin/abyss/img/waterfox-abyss-preview.svg
+JavaScript error: https://cadmus2.script.ac/fs01/main.js, line 1: TypeError: n is null
+1726531525591	Marionette	INFO	Stopped listening on port 35963
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
