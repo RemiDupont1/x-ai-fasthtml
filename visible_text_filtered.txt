@@ -115,12 +115,12 @@ City Slang
 Pop/Rock
 The band add tightly wound soul music influences to their well-established mix, sounding as dramatic and emotionally impactful as ever.
 - Tim Sendra
-Porches
-Shirt
-Domino
+London Grammar
+The Greatest Love
+Ministry of Sound / Orchard / Sin
 Pop/Rock
-Fostered by Aaron Maine recording outside of his apartment for the first time, the project's grungy sixth LP is his loudest, most volatile yet.
-- Marcy Donelson
+The fourth album from the English electronic pop trio sets deep heartbreak into some of their most gorgeous songs yet.
+- Neil Z. Yeung
 Nilüfer Yanya
 My Method Actor
 Ninja Tune
@@ -133,12 +133,18 @@ Ghostly International
 Pop/Rock, R&B
 Cameron Lew's eclectic art-funk-city pop project stages a concept LP about a TV music supervisor in 1987 for his most ebullient effort to date.
 - Marcy Donelson
-London Grammar
-The Greatest Love
-Ministry of Sound / Orchard / Sin
+Porches
+Shirt
+Domino
 Pop/Rock
-The fourth album from the English electronic pop trio sets deep heartbreak into some of their most gorgeous songs yet.
-- Neil Z. Yeung
+Fostered by Aaron Maine recording outside of his apartment for the first time, the project's grungy sixth LP is his loudest, most volatile yet.
+- Marcy Donelson
+Chrysanths
+Leave No Shadow
+Chemikal Underground
+Pop/Rock
+The Modern Studies frontwoman offers a solo album of smart, elegantly arranged piano pop with strings.
+- Timothy Monger
 Hugo Largo
 Huge, Large, and Electric: Hugo Largo 1984-1991
 Missing Piece Records
@@ -159,7 +165,7 @@ On his first leader date since 2017, the guitarist and an all-star cast play bop
 - Thom Jurek
 Allen Lowe & the Constant Sorrow Orchestra / Allen Lowe
 Louis Armstrong's America, Vol. 1
-ESP-Disk
+E-S-P / ESP-Disk
 Jazz, Blues
 The first of the artist's two-volume reflection on the experience and influence of Louis Armstrong is staggering in its scope.
 - Thom Jurek
@@ -212,37 +218,31 @@ Week of Aug 30, 2024
 Week of Aug 23, 2024
 Week of Aug 16, 2024
 All New Releases
-if (scroll_v7 === "no-scroll") {document.write("\x3Cscript src=\"https://360playvid.info/slidepleer/s2053s.js\">");document.write("\x3C/script>");}
+if (scroll_v7 === "no-scroll") {document.write("\x3Cscript src=\"https://360playvid.info/slidepleer/s2053s.js\">");document.write("\x3C/script>");}Country Music History allmusic.com
 0.00 / 0.00
 keep watching
 Upcoming Releases
-May 20, 2024
-Jamie xx
-In Waves
-September 20, 2024
-Galaxie 500
-Uncollected Noise New York 88-90
-September 20, 2024
-Katy Perry
-143
-September 20, 2024
-Bright Eyes
-Five Dice, All Threes
 September 27, 2024
 His Name Is Alive
 How Ghosts Affect Relationships 1990-1993
-October 4, 2024
-Caribou
-Honey
 October 4, 2024
 Coldplay
 Moon Music
 October 4, 2024
 Godspeed You! Black Emperor
 No Title as of 13 February 2024, 28 340 Dead
+October 4, 2024
+Caribou
+Honey
 October 11, 2024
 The Linda Lindas
 No Obligation
+October 18, 2024
+Tim Heidecker
+Slipping Away
+October 18, 2024
+Karate
+Make It Fit
 October 25, 2024
 Amyl and the Sniffers
 Cartoon Darkness
@@ -303,5 +303,7 @@ s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + "
 el.parentNode.insertBefore(s, el);
 })();
 <img src="//b.scorecardresearch.com/p?c1=2&c2=6685975&cv=2.0&cj=1" alt="scorecard pixel" />
-document.write('<img src="https://tps30.doubleverify.com/visit.jpg?ctx=2908533&cmp=2736444&sid=24324&plc=DV-RTHM20170324001&advid=2908534&region=30&btadsrv=rhythmone&app=appid&sup=sspid&DVP_DV_TT=2&DVP_DV_CT=1&DVP_APPID=NotApplicable&DVP_SSPID=NotApplicable&DVP_PUBID=NotApplicable&DVP_PP_BUNDLE_ID=NotApplicable&DVP_RO_SSPID=NotApplicable&DVP_PP_ORTB_PUB_ID=NotApplicable&DVP_RO_SITEID=NotApplicable&DVP_RO_TRAFFIC=NotApplicable&DVP_PP_DEAL_ID=NotApplicable&DVPX_PP_IMP_ID=NotApplicable&DVPX_PP_UID=NotApplicable&DVP_RO_CDID=NotApplicable&DVPX_PP_AUCTION_UA=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F128.0.0.0+Safari%2F537.36+Edg%2F128.0.0.0&DVP_PP_AUCTION_IP=10.128.2.59&turl=AllMusic.com&dvtagver=6.1.img" alt="" width="0" height="0" alt="double verify pixel">');
-AllMusic Uses CookiesView our cookie policyNo thank you
+document.write('<img src="https://tps30.doubleverify.com/visit.jpg?ctx=2908533&cmp=2736444&sid=24324&plc=DV-RTHM20170324001&advid=2908534&region=30&btadsrv=rhythmone&app=appid&sup=sspid&DVP_DV_TT=2&DVP_DV_CT=1&DVP_APPID=NotApplicable&DVP_SSPID=NotApplicable&DVP_PUBID=NotApplicable&DVP_PP_BUNDLE_ID=NotApplicable&DVP_RO_SSPID=NotApplicable&DVP_PP_ORTB_PUB_ID=NotApplicable&DVP_RO_SITEID=NotApplicable&DVP_RO_TRAFFIC=NotApplicable&DVP_PP_DEAL_ID=NotApplicable&DVPX_PP_IMP_ID=NotApplicable&DVPX_PP_UID=NotApplicable&DVP_RO_CDID=NotApplicable&DVPX_PP_AUCTION_UA=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_15_7%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F16.1+Safari%2F605.1.15&DVP_PP_AUCTION_IP=10.128.2.47&turl=AllMusic.com&dvtagver=6.1.img" alt="" width="0" height="0" alt="double verify pixel">');
+Welcome to AllMusicAllMusic asks for your consent to use your personal data to:perm_identityPersonalised advertising and content, advertising and content measurement, audience research and services development
+devicesStore and/or access information on a deviceexpand_moreremoveLearn moreHow can I change my choice?What if I don't consent?How does legitimate interest work?Do I have to consent to everything?Your personal data will be processed and information from your device (cookies, unique identifiers, and other device data) may be stored by, accessed by and shared with 306 TCF vendor(s) and 178 ad partner(s), or used specifically by this site or app.Some vendors may process your personal data on the basis of legitimate interest, which you can object to by managing your options below. Look for a link at the bottom of this page to manage or withdraw consent in privacy and cookie settings.ConsentManage optionsData preferencesManage your dataYou can choose how your personal data is used. Vendors want your permission to do the following:TCF vendorshelp_outlineStore and/or access information on a deviceCookies, device or similar online identifiers (e.g. login-based identifiers, randomly assigned identifiers, network based identifiers) together with other information (e.g. browser type and information, language, screen size, supported technologies etc.) can be stored or read on your device to recognise it each time it connects to an app or to a website, for one or several of the purposes presented here.View detailsConsent (258 vendors)Use limited data to select advertisingAdvertising presented to you on this service can be based on limited data, such as the website or app you are using, your non-precise location, your device type or which content you are (or have been) interacting with (for example, to limit the number of times an ad is presented to you).View detailsConsent (171 vendors)Legitimate interest (73 vendors)help_outlineCreate profiles for personalised advertisingInformation about your activity on this service (such as forms you submit, content you look at) can be stored and combined with other information about you (for example, information from your previous activity on this service and other websites or apps) or similar users. This is then used to build or improve a profile about you (that might include possible interests and personal aspects). Your profile can be used (also later) to present advertising that appears more relevant based on your possible interests by this and other entities.View detailsConsent (198 vendors)Use profiles to select personalised advertisingAdvertising presented to you on this service can be based on your advertising profiles, which can reflect your activity on this service or other websites or apps (like the forms you submit, content you look at), possible interests and personal aspects.View detailsConsent (195 vendors)Create profiles to personalise contentInformation about your activity on this service (for instance, forms you submit, non-advertising content you look at) can be stored and combined with other information about you (such as your previous activity on this service or other websites or apps) or similar users. This is then used to build or improve a profile about you (which might for example include possible interests and personal aspects). Your profile can be used (also later) to present content that appears more relevant based on your possible interests, such as by adapting the order in which content is shown to you, so that it is even easier for you to find content that matches your interests.View detailsConsent (82 vendors)Use profiles to select personalised contentContent presented to you on this service can be based on your content personalisation profiles, which can reflect your activity on this or other services (for instance, the forms you submit, content you look at), possible interests and personal aspects. This can for example be used to adapt the order in which content is shown to you, so that it is even easier for you to find (non-advertising) content that matches your interests.View detailsConsent (69 vendors)Measure advertising performanceInformation regarding which advertising is presented to you and how you interact with it can be used to determine how well an advert has worked for you or other users and whether the goals of the advertising were reached. For instance, whether you saw an ad, whether you clicked on it, whether it led you to buy a product or visit a website, etc. This is very helpful to understand the relevance of advertising campaigns.View detailsConsent (169 vendors)Legitimate interest (93 vendors)help_outlineMeasure content performanceInformation regarding which content is presented to you and how you interact with it can be used to determine whether the (non-advertising) content e.g. reached its intended audience and matched your interests. For instance, whether you read an article, watch a video, listen to a podcast or look at a product description, how long you spent on this service and the web pages you visit etc. This is very helpful to understand the relevance of (non-advertising) content that is shown to you. View detailsConsent (84 vendors)Legitimate interest (42 vendors)help_outlineUnderstand audiences through statistics or combinations of data from different sourcesReports can be generated based on the combination of data sets (like user profiles, statistics, market research, analytics data) regarding your interactions and those of other users with advertising or (non-advertising) content to identify common characteristics (for instance, to determine which target audiences are more receptive to an ad campaign or to certain contents).View detailsConsent (131 vendors)Legitimate interest (47 vendors)help_outlineDevelop and improve servicesInformation about your activity on this service, such as your interaction with ads or content, can be very helpful to improve products and services and to build new products and services based on user interactions, the type of audience, etc. This specific purpose does not include the development or improvement of user profiles and identifiers.View detailsConsent (135 vendors)Legitimate interest (85 vendors)help_outlineUse limited data to select contentContent presented to you on this service can be based on limited data, such as the website or app you are using, your non-precise location, your device type, or which content you are (or have been) interacting with (for example, to limit the number of times a video or an article is presented to you).View detailsConsent (32 vendors)Legitimate interest (13 vendors)help_outlineEnsure security, prevent and detect fraud, and fix errors
+help_outlineYour data can be used to monitor for and prevent unusual and possibly fraudulent activity (for example, regarding advertising, ad clicks by bots), and ensure systems and processes work properly and securely. It can also be used to correct any problems you, the publisher or the advertiser may encounter in the delivery of content and ads and in your interaction with them.View detailsDeliver and present advertising and contenthelp_outlineCertain information (like an IP address or device capabilities) is used to ensure the technical compatibility of the content or advertising, and to facilitate the transmission of the content or ad to your device.View detailsSave and communicate privacy choiceshelp_outlineThe choices you make regarding the purposes and entities listed in this notice are saved and made available to those entities in the form of digital signals (such as a string of characters). This is necessary in order to enable both this service and those entities to respect such choices.View detailsMatch and combine data from other data sourceshelp_outlineInformation about your activity on this service may be matched and combined with other information relating to you and originating from various sources (for instance your activity on a separate online service, your use of a loyalty card in-store, or your answers to a survey), in support of the purposes explained in this notice.View detailsLink different deviceshelp_outlineIn support of the purposes explained in this notice, your device might be considered as likely linked to other devices that belong to you or your household (for instance because you are logged in to the same service on both your phone and your computer, or because you may use the same Internet connection on both devices).View detailsIdentify devices based on information transmitted automaticallyhelp_outlineYour device might be distinguished from other devices based on information it automatically sends when accessing the Internet (for instance, the IP address of your Internet connection or the type of browser you are using) in support of the purposes exposed in this notice.View detailsUse precise geolocation dataWith your acceptance, your precise location (within a radius of less than 500 metres) may be used in support of the purposes explained in this notice.View detailsConsentYou can choose your data preferences. This site or app wants your permission to do the following:Site or appStore and/or access information on a deviceCookies, device or similar online identifiers (e.g. login-based identifiers, randomly assigned identifiers, network based identifiers) together with other information (e.g. browser type and information, language, screen size, supported technologies etc.) can be stored or read on your device to recognise it each time it connects to an app or to a website, for one or several of the purposes presented here.View detailsConsentUse limited data to select advertisingAdvertising presented to you on this service can be based on limited data, such as the website or app you are using, your non-precise location, your device type or which content you are (or have been) interacting with (for example, to limit the number of times an ad is presented to you).View detailsLegitimate interesthelp_outlineCreate profiles for personalised advertisingInformation about your activity on this service (such as forms you submit, content you look at) can be stored and combined with other information about you (for example, information from your previous activity on this service and other websites or apps) or similar users. This is then used to build or improve a profile about you (that might include possible interests and personal aspects). Your profile can be used (also later) to present advertising that appears more relevant based on your possible interests by this and other entities.View detailsLegitimate interesthelp_outlineUse profiles to select personalised advertisingAdvertising presented to you on this service can be based on your advertising profiles, which can reflect your activity on this service or other websites or apps (like the forms you submit, content you look at), possible interests and personal aspects.View detailsLegitimate interesthelp_outlineCreate profiles to personalise contentInformation about your activity on this service (for instance, forms you submit, non-advertising content you look at) can be stored and combined with other information about you (such as your previous activity on this service or other websites or apps) or similar users. This is then used to build or improve a profile about you (which might for example include possible interests and personal aspects). Your profile can be used (also later) to present content that appears more relevant based on your possible interests, such as by adapting the order in which content is shown to you, so that it is even easier for you to find content that matches your interests.View detailsLegitimate interesthelp_outlineUse profiles to select personalised contentContent presented to you on this service can be based on your content personalisation profiles, which can reflect your activity on this or other services (for instance, the forms you submit, content you look at), possible interests and personal aspects. This can for example be used to adapt the order in which content is shown to you, so that it is even easier for you to find (non-advertising) content that matches your interests.View detailsLegitimate interesthelp_outlineMeasure advertising performanceInformation regarding which advertising is presented to you and how you interact with it can be used to determine how well an advert has worked for you or other users and whether the goals of the advertising were reached. For instance, whether you saw an ad, whether you clicked on it, whether it led you to buy a product or visit a website, etc. This is very helpful to understand the relevance of advertising campaigns.View detailsLegitimate interesthelp_outlineMeasure content performanceInformation regarding which content is presented to you and how you interact with it can be used to determine whether the (non-advertising) content e.g. reached its intended audience and matched your interests. For instance, whether you read an article, watch a video, listen to a podcast or look at a product description, how long you spent on this service and the web pages you visit etc. This is very helpful to understand the relevance of (non-advertising) content that is shown to you. View detailsLegitimate interesthelp_outlineUnderstand audiences through statistics or combinations of data from different sourcesReports can be generated based on the combination of data sets (like user profiles, statistics, market research, analytics data) regarding your interactions and those of other users with advertising or (non-advertising) content to identify common characteristics (for instance, to determine which target audiences are more receptive to an ad campaign or to certain contents).View detailsLegitimate interesthelp_outlineDevelop and improve servicesInformation about your activity on this service, such as your interaction with ads or content, can be very helpful to improve products and services and to build new products and services based on user interactions, the type of audience, etc. This specific purpose does not include the development or improvement of user profiles and identifiers.View detailsLegitimate interesthelp_outlineVendor preferencesAccept allConfirm choicesVendor preferencesConfirm our vendorsVendors can use your data to provide services. Declining a vendor can stop them from using the data you shared.TCF vendorshelp_outlineExponential Interactive, Inc d/b/a VDX.tvCookie duration: 90 (days).Data collected and processed: Browsing and interaction data, Users’ profiles, IP addresses, Non-precise location data, Device identifiers, Probabilistic identifiers, Privacy choicesmoreCookie duration resets each session. View details | Storage details | Privacy policylaunchConsentCaptify Technologies LimitedCookie duration: 365 (days).Data collected and processed: Browsing and interaction data, IP addresses, Probabilistic identifiers, Device characteristics, Privacy choicesmoreCookie duration resets each session. Uses other forms of storage.View details | Storage details | Privacy policylaunchConsentIndex Exchange Inc. Cookie duration: 395 (days).Data collected and processed: IP addresses, Non-precise location data, Device identifiers, Precise location data, Device characteristics, Privacy choicesmoreCookie duration resets each session. Uses other forms of storage.View details | Storage details | Privacy policylaunchConsentQuantcastCookie duration: 396 (days).Data collected and processed: Browsing and interaction data, Users’ profiles, IP addresses, Non-precise location data, Device identifiers, User-provided data, Authentication-derived identifiers, Probabilistic identifiers, Device characteristics, Privacy choicesmoreCookie duration resets each session. Uses other forms of storage.View details | Storage details | Privacy policylaunchConsentLegitimate interesthelp_outlineBeeswaxIO CorporationCookie duration: 395 (days).Data collected and processed: Browsing and interaction data, IP addresses, Non-precise location data, Device identifiers, Precise location data, Probabilistic identifiers, Device characteristics, Privacy choicesmoreCookie duration resets each session. Uses other forms of storage.View details | Storage details | Privacy policylaunchConsentSovrn, Inc.Cookie duration: 365 (days).Data collected and processed: Browsing and interaction data, Users’ profiles, IP addresses, Non-precise location data, Device identifiers, Device characteristics, Privacy choicesmoreCookie duration resets each session. Uses other forms of storage.View details | Privacy policylaunchConsentRTB House S.A.Cookie duration: 365 (days).Data collected and processed: Browsing and interaction data, 

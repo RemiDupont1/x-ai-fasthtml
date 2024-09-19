@@ -1,5 +1,6 @@
 from openai import OpenAI
 import os
+from X_utils import Session, Tweet
 
 prompt = """From this Page content, select a title from the New Reviews section and write an X post to introduce it and make people want to listen to it.
 You are publishing 1 song a day. use emojis in your post when possible.
@@ -33,16 +34,12 @@ def call_openai(messages, model="gpt-4o-mini"):
     return response.choices[0].message.content
 
 def generate_post(text, prompt=prompt, max_length=None):
-    # Read the content of the source file
-    with open('document.html', 'r', encoding='utf-8') as f:
-        source_content = f.read()
-
-    # Try to read the content of the logtweet file, set to empty string if file doesn't exist
-    try:
-        with open('logtweets.txt', 'r', encoding='utf-8') as f:
-            logtweet_content = f.read()
-    except FileNotFoundError:
-        logtweet_content = ""
+    # Lire les tweets de la base de données
+    session = Session()
+    tweets = session.query(Tweet).order_by(Tweet.id.desc()).limit(10).all()
+    logtweet_content = " --- ".join([tweet.text for tweet in tweets])
+    session.close()
+    breakpoint()
 
     # Prepare messages for the OpenAI API
     messages = [

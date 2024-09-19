@@ -7,6 +7,7 @@ from google_image import telecharger_image_album
 def main():
     url = "https://www.allmusic.com/newreleases"
     rendered_html = scroll_html_file(url)
+    print(rendered_html)
     tweet = generate_post(rendered_html, max_length=280)
     print(tweet)
     messages = [

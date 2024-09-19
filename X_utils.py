@@ -2,6 +2,25 @@ import tweepy
 from datetime import datetime
 import re
 import os
+from sqlalchemy import create_engine, Column, Integer, String, DateTime
+from sqlalchemy.ext.declarative import declarative_base
+from sqlalchemy.orm import sessionmaker
+from sqlalchemy.sql import func
+
+Base = declarative_base()
+
+class Tweet(Base):
+    __tablename__ = 'tweets'
+    id = Column(Integer, primary_key=True)
+    text = Column(String(280))
+
+# Database setup
+DATABASE_URL = os.environ.get("POSTGRES_URL")
+if DATABASE_URL.startswith("postgres://"):
+    DATABASE_URL = DATABASE_URL.replace("postgres://", "postgresql://", 1)
+engine = create_engine(DATABASE_URL)
+Base = declarative_base()
+Session = sessionmaker(bind=engine)
 
 
 
@@ -51,6 +70,18 @@ def post_tweet(input_text, image_path=None):
     print(tweet)
     response = client.create_tweet(text=tweet, media_ids=media_ids)
     print(response)
+
+    # Save the tweet to the database
+    session = Session()
+    
+    # Générer manuellement le prochain ID
+    max_id = session.query(func.max(Tweet.id)).scalar()
+    next_id = 1 if max_id is None else max_id + 1
+    
+    new_tweet = Tweet(id=next_id, text=tweet)
+    session.add(new_tweet)
+    session.commit()
+    session.close()
 
     # Log the tweet
     log_file = 'logtweets.txt'

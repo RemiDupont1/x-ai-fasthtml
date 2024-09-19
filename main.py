@@ -56,7 +56,7 @@ def get():
                 ),
                 Br(),
                                 
-                Button("Cliquez-moi", hx_post="/hello-world", hx_target="#result", cls="btn btn-warning"),
+                Button("Post a tweet", hx_post="/hello-world", hx_target="#result", cls="btn btn-warning"),
 
                 Br(),
 
@@ -67,12 +67,12 @@ def get():
                 Br(),
 
                 # Replace the direct click_list with a loading indicator and a div for the clicks
-                Div(
-                    Div(cls="loading loading-spinner loading-lg"),
-                    id="clicks-container",
-                    hx_get="/load-clicks",
-                    hx_trigger="load",
-                ),
+                # Div(
+                #     Div(cls="loading loading-spinner loading-lg"),
+                #     id="clicks-container",
+                #     hx_get="/load-clicks",
+                #     hx_trigger="load",
+                # ),
 
                 Br(),
 
@@ -119,6 +119,7 @@ def hello_world():
     # session.add(new_click)
     # session.commit()
     # session.close()
+    print("hello world")
     main_X.main()
     
     return Button(f"Hello World! Button clicked at {current_time}", cls="btn btn-outline btn-success")

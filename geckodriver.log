@@ -813,3 +813,353 @@ JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch res
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/local/share/doc /usr/local/share/doc none bind,ro 0 0): cannot open directory "/usr/local/share": permission denied
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/gimp/2.0/help /usr/share/gimp/2.0/help none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/gimp/2.0/help" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/sphinx_rtd_theme /usr/share/sphinx_rtd_theme none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/sphinx_rtd_theme" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/xubuntu-docs /usr/share/xubuntu-docs none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/xubuntu-docs" because it would affect the host in "/var/lib/snapd"
+1726671180278	geckodriver	INFO	Listening on 127.0.0.1:38393
+1726671181064	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... ss" "--remote-debugging-port" "39933" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevChY5X"
+*** You are running in headless mode.
+Gtk-Message: 10:53:01.115: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1726671181695	Marionette	INFO	Marionette enabled
+1726671181875	Marionette	INFO	Listening on port 44853
+WebDriver BiDi listening on ws://127.0.0.1:39933
+Read port: 44853
+1726671182140	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://cdn.intergient.com/pageos/1.10.65/videoCard.5ed8eb34c11835040def.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/playwireprebidheader597261727146/moatheader.js, line 146: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.allmusic.com/newreleases line 33 > injectedScript, line 21: ReferenceError: ReportingObserver is not defined
+1726671190204	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gBVmyuFVevGbjLsodU0USU6vqiWuiE2HzOGr8RudJYo.js line 2 > eval line 2128 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gBVmyuFVevGbjLsodU0USU6vqiWuiE2HzOGr8RudJYo.js line 2 > eval line 2767 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gBVmyuFVevGbjLsodU0USU6vqiWuiE2HzOGr8RudJYo.js line 2 > eval line 899 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gBVmyuFVevGbjLsodU0USU6vqiWuiE2HzOGr8RudJYo.js line 2 > eval line 4762 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gBVmyuFVevGbjLsodU0USU6vqiWuiE2HzOGr8RudJYo.js line 2 > eval line 6189 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1726671199115	Marionette	INFO	Stopped listening on port 44853
+JavaScript warning: https://www.allmusic.com/newreleases, line 57: Script terminated by timeout at:
+findIFramesAndBindListeners@https://www.allmusic.com/newreleases:57:1034
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1726671714473	geckodriver	INFO	Listening on 127.0.0.1:53135
+1726671714840	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... ss" "--remote-debugging-port" "58983" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilez2KIHN"
+*** You are running in headless mode.
+Gtk-Message: 11:01:54.881: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1726671715253	Marionette	INFO	Marionette enabled
+1726671715385	Marionette	INFO	Listening on port 32953
+WebDriver BiDi listening on ws://127.0.0.1:58983
+Read port: 32953
+1726671715594	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://cdn.intergient.com/pageos/1.10.65/videoCard.5ed8eb34c11835040def.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/playwireprebidheader597261727146/moatheader.js, line 146: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1726671720539	Marionette	INFO	Stopped listening on port 32953
+1726671732498	geckodriver	INFO	Listening on 127.0.0.1:55133
+1726671732853	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... ss" "--remote-debugging-port" "56879" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileeBJou1"
+*** You are running in headless mode.
+Gtk-Message: 11:02:12.902: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1726671733253	Marionette	INFO	Marionette enabled
+1726671733378	Marionette	INFO	Listening on port 44393
+WebDriver BiDi listening on ws://127.0.0.1:56879
+Read port: 44393
+1726671733618	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://cdn.intergient.com/pageos/1.10.65/videoCard.5ed8eb34c11835040def.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/playwireprebidheader597261727146/moatheader.js, line 146: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1726671739227	Marionette	INFO	Stopped listening on port 44393
+JavaScript warning: https://cdn.p-n.io/pushly-sdk.min.js?domain_key=NPUNDdsWw1O7c8IPEUmVhdRTDmw56YlvT2LV%3E, line 2: Script terminated by timeout at:
+./src/sdk/prompts/base.prompt.ts/u<@https://cdn.p-n.io/pushly-sdk.min.js?domain_key=NPUNDdsWw1O7c8IPEUmVhdRTDmw56YlvT2LV%3E:2:162420
+./src/sdk/prompts/base.prompt.ts/_evaluateRunConditions/</</</s</</e<@https://cdn.p-n.io/pushly-sdk.min.js?domain_key=NPUNDdsWw1O7c8IPEUmVhdRTDmw56YlvT2LV%3E:2:168043
+
+1726671787127	geckodriver	INFO	Listening on 127.0.0.1:47319
+1726671787489	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... ss" "--remote-debugging-port" "57353" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilecqMzum"
+*** You are running in headless mode.
+Gtk-Message: 11:03:07.530: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1726671787925	Marionette	INFO	Marionette enabled
+1726671788045	Marionette	INFO	Listening on port 34135
+WebDriver BiDi listening on ws://127.0.0.1:57353
+Read port: 34135
+1726671788259	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://cdn.intergient.com/pageos/1.10.65/videoCard.5ed8eb34c11835040def.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/playwireprebidheader597261727146/moatheader.js, line 146: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1726671796212	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/bezd6JxrDBnPTgzr-3Ml_T53b5XhGTd3yJ1wL4BG7lE.js line 2 > eval line 2947 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/bezd6JxrDBnPTgzr-3Ml_T53b5XhGTd3yJ1wL4BG7lE.js line 2 > eval line 6870 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gBVmyuFVevGbjLsodU0USU6vqiWuiE2HzOGr8RudJYo.js line 2 > eval line 1152 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gBVmyuFVevGbjLsodU0USU6vqiWuiE2HzOGr8RudJYo.js line 2 > eval line 5670 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gBVmyuFVevGbjLsodU0USU6vqiWuiE2HzOGr8RudJYo.js line 2 > eval line 2867 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gBVmyuFVevGbjLsodU0USU6vqiWuiE2HzOGr8RudJYo.js line 2 > eval line 3270 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://s0.2mdn.net/sadbundle/14174524187354852928/FIZZ-BAN-WIFI_COOKIE-940-65-970x250-2405_en/index.html?ev=01_252, line 39: ReferenceError: player is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://ib.3lift.com/rev/5d88134eeace6e1c53c161d0e3fc4afddbe7358d/dist/bundle.js, line 1: SecurityError: Permission denied to access property "__gpp" on cross-origin object
+1726671827327	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1726671827348	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gBVmyuFVevGbjLsodU0USU6vqiWuiE2HzOGr8RudJYo.js line 2 > eval line 2892 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gBVmyuFVevGbjLsodU0USU6vqiWuiE2HzOGr8RudJYo.js line 2 > eval line 3718 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gBVmyuFVevGbjLsodU0USU6vqiWuiE2HzOGr8RudJYo.js line 2 > eval line 6262 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://s0.2mdn.net/sadbundle/14174524187354852928/FIZZ-BAN-WIFI_COOKIE-940-65-970x250-2405_en/index.html?ev=01_252, line 39: ReferenceError: player is not defined
+JavaScript error: https://s0.2mdn.net/sadbundle/14174524187354852928/FIZZ-BAN-WIFI_COOKIE-940-65-970x250-2405_en/index.html?ev=01_252, line 39: ReferenceError: player is not defined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1726671876545	geckodriver	INFO	Listening on 127.0.0.1:60721
+1726671876900	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... ss" "--remote-debugging-port" "39475" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefwgMOh"
+*** You are running in headless mode.
+Gtk-Message: 11:04:36.944: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1726671877312	Marionette	INFO	Marionette enabled
+1726671877443	Marionette	INFO	Listening on port 41827
+WebDriver BiDi listening on ws://127.0.0.1:39475
+Read port: 41827
+1726671877676	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://cdn.intergient.com/pageos/1.10.65/videoCard.5ed8eb34c11835040def.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/playwireprebidheader597261727146/moatheader.js, line 146: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1726671885535	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gBVmyuFVevGbjLsodU0USU6vqiWuiE2HzOGr8RudJYo.js line 2 > eval line 7423 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gBVmyuFVevGbjLsodU0USU6vqiWuiE2HzOGr8RudJYo.js line 2 > eval line 1783 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gBVmyuFVevGbjLsodU0USU6vqiWuiE2HzOGr8RudJYo.js line 2 > eval line 4179 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gBVmyuFVevGbjLsodU0USU6vqiWuiE2HzOGr8RudJYo.js line 2 > eval line 4341 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gBVmyuFVevGbjLsodU0USU6vqiWuiE2HzOGr8RudJYo.js line 2 > eval line 7819 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gBVmyuFVevGbjLsodU0USU6vqiWuiE2HzOGr8RudJYo.js line 2 > eval line 6897 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://s0.2mdn.net/sadbundle/14174524187354852928/FIZZ-BAN-WIFI_COOKIE-940-65-970x250-2405_en/index.html?ev=01_252, line 39: ReferenceError: player is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gBVmyuFVevGbjLsodU0USU6vqiWuiE2HzOGr8RudJYo.js line 2 > eval line 4780 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gBVmyuFVevGbjLsodU0USU6vqiWuiE2HzOGr8RudJYo.js line 2 > eval line 1684 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gBVmyuFVevGbjLsodU0USU6vqiWuiE2HzOGr8RudJYo.js line 2 > eval line 5889 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://s0.2mdn.net/sadbundle/14174524187354852928/FIZZ-BAN-WIFI_COOKIE-940-65-970x250-2405_en/index.html?ev=01_252, line 39: ReferenceError: player is not defined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1726671948929	geckodriver	INFO	Listening on 127.0.0.1:35303
+1726671949291	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... ss" "--remote-debugging-port" "49409" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile8O5jsR"
+*** You are running in headless mode.
+Gtk-Message: 11:05:49.336: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1726671949649	Marionette	INFO	Marionette enabled
+1726671949765	Marionette	INFO	Listening on port 35011
+WebDriver BiDi listening on ws://127.0.0.1:49409
+Read port: 35011
+1726671949944	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://cdn.intergient.com/pageos/1.10.65/videoCard.5ed8eb34c11835040def.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/playwireprebidheader597261727146/moatheader.js, line 146: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1726671954923	Marionette	INFO	Stopped listening on port 35011
+1726672038325	geckodriver	INFO	Listening on 127.0.0.1:56101
+1726672038687	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... ss" "--remote-debugging-port" "49421" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileuNm2hT"
+*** You are running in headless mode.
+Gtk-Message: 11:07:18.736: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1726672039084	Marionette	INFO	Marionette enabled
+1726672039212	Marionette	INFO	Listening on port 35515
+WebDriver BiDi listening on ws://127.0.0.1:49421
+Read port: 35515
+1726672039438	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://cdn.intergient.com/pageos/1.10.65/videoCard.5ed8eb34c11835040def.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/playwireprebidheader597261727146/moatheader.js, line 146: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1726672044862	Marionette	INFO	Stopped listening on port 35515
+1726672091230	geckodriver	INFO	Listening on 127.0.0.1:44823
+1726672091596	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... ss" "--remote-debugging-port" "44159" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXAI1jM"
+*** You are running in headless mode.
+Gtk-Message: 11:08:11.639: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1726672091995	Marionette	INFO	Marionette enabled
+1726672092124	Marionette	INFO	Listening on port 35917
+WebDriver BiDi listening on ws://127.0.0.1:44159
+Read port: 35917
+1726672092355	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://cdn.intergient.com/pageos/1.10.65/videoCard.5ed8eb34c11835040def.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/playwireprebidheader597261727146/moatheader.js, line 146: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.allmusic.com/newreleases line 33 > injectedScript, line 21: ReferenceError: ReportingObserver is not defined
+1726672100373	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gBVmyuFVevGbjLsodU0USU6vqiWuiE2HzOGr8RudJYo.js line 2 > eval line 2314 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gBVmyuFVevGbjLsodU0USU6vqiWuiE2HzOGr8RudJYo.js line 2 > eval line 6081 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gBVmyuFVevGbjLsodU0USU6vqiWuiE2HzOGr8RudJYo.js line 2 > eval line 7234 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/gBVmyuFVevGbjLsodU0USU6vqiWuiE2HzOGr8RudJYo.js line 2 > eval line 5255 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1726672101931	Marionette	INFO	Stopped listening on port 35917
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1726672189875	geckodriver	INFO	Listening on 127.0.0.1:47439
+1726672190237	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... ss" "--remote-debugging-port" "58085" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileb2Udj1"
+*** You are running in headless mode.
+Gtk-Message: 11:09:50.285: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1726672190631	Marionette	INFO	Marionette enabled
+1726672190761	Marionette	INFO	Listening on port 40551
+WebDriver BiDi listening on ws://127.0.0.1:58085
+Read port: 40551
+1726672191007	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://cdn.intergient.com/pageos/1.10.65/videoCard.5ed8eb34c11835040def.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/playwireprebidheader597261727146/moatheader.js, line 146: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1726672196233	Marionette	INFO	Stopped listening on port 40551
+1726672226542	geckodriver	INFO	Listening on 127.0.0.1:35473
+1726672226899	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... ss" "--remote-debugging-port" "36683" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileyzBSny"
+*** You are running in headless mode.
+Gtk-Message: 11:10:26.943: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1726672227340	Marionette	INFO	Marionette enabled
+1726672227490	Marionette	INFO	Listening on port 44865
+Read port: 44865
+WebDriver BiDi listening on ws://127.0.0.1:36683
+1726672227600	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://cdn.intergient.com/pageos/1.10.65/videoCard.5ed8eb34c11835040def.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/playwireprebidheader597261727146/moatheader.js, line 146: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1726672233228	Marionette	INFO	Stopped listening on port 44865
+1726787807174	geckodriver	INFO	Listening on 127.0.0.1:38227
+1726787807527	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... ss" "--remote-debugging-port" "33013" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezHKLtD"
+*** You are running in headless mode.
+Gtk-Message: 19:16:47.575: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1726787807941	Marionette	INFO	Marionette enabled
+1726787808072	Marionette	INFO	Listening on port 43909
+WebDriver BiDi listening on ws://127.0.0.1:33013
+Read port: 43909
+1726787808315	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://cdn.intergient.com/pageos/1.10.65/videoCard.5ed8eb34c11835040def.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/playwireprebidheader597261727146/moatheader.js, line 146: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1726787842654	Marionette	INFO	Stopped listening on port 43909
+console.error: services.settings: 
+Object
+  - prototype Object
+    - columnNumber = 0
+    - data = null
+    - filename = resource://gre/modules/ServiceRequest.sys.mjs
+    - lineNumber = 133
+    - location = {"name":"open","filename":"resource://gre/modules/ServiceRequest.sys.mjs","sourceId":24,"lineNumber":133,"columnNumber":11,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetch/<","sourceId":23,"lineNumber":266,"columnNumber":15,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetch","sourceId":23,"lineNumber":217,"columnNumber":12,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/RemoteSettingsClient.sys.mjs","name":"_validateCollectionSignature","sourceId":21,"lineNumber":1009,"columnNumber":47,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/RemoteSettingsClient.sys.mjs","name":"maybeSync","sourceId":21,"lineNumber":726,"columnNumber":26,"asyncCause":null,"asyncCaller":null,"caller":null,"formattedStack":"maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:726:26\n","nativeSavedFrame":{}},"formattedStack":"_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.sys.mjs:1009:47\nmaybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:726:26\n","nativeSavedFrame":{}},"formattedStack":"fetch@resource://services-settings/Utils.sys.mjs:217:12\n_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.sys.mjs:1009:47\nmaybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:726:26\n","nativeSavedFrame":{}},"formattedStack":"fetch/<@resource://services-settings/Utils.sys.mjs:266:15\nfetch@resource://services-settings/Utils.sys.mjs:217:12\n_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.sys.mjs:1009:47\nmaybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:726:26\n","nativeSavedFrame":{}},"formattedStack":"open@resource://gre/modules/ServiceRequest.sys.mjs:133:11\nfetch/<@resource://services-settings/Utils.sys.mjs:266:15\nfetch@resource://services-settings/Utils.sys.mjs:217:12\n_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.sys.mjs:1009:47\nmaybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:726:26\n","nativeSavedFrame":{}}
+    - message = 
+    - name = 
+    - result = 2152071198
+    - stack = open@resource://gre/modules/ServiceRequest.sys.mjs:133:11|fetch/<@resource://services-settings/Utils.sys.mjs:266:15|fetch@resource://services-settings/Utils.sys.mjs:217:12|_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.sys.mjs:1009:47|maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:726:26|
+  - prototype Object
+console.warn: services.settings: main/urlbar-persisted-search-terms sync interrupted by shutdown
+console.warn: services.settings: main/url-classifier-skip-urls sync interrupted by shutdown
+console.warn: services.settings: main/devtools-compatibility-browsers sync interrupted by shutdown
+console.warn: services.settings: main/top-sites sync interrupted by shutdown
+console.warn: services.settings: main/sites-classification sync interrupted by shutdown
+console.warn: services.settings: main/anti-tracking-url-decoration sync interrupted by shutdown
+console.warn: services.settings: main/hijack-blocklists sync interrupted by shutdown
+console.warn: services.settings: main/pioneer-study-addons-v1 sync interrupted by shutdown
+console.warn: services.settings: main/doh-providers sync interrupted by shutdown
+console.warn: services.settings: main/doh-config sync interrupted by shutdown
+console.warn: services.settings: main/devtools-devices sync interrupted by shutdown
+console.warn: services.settings: main/websites-with-shared-credential-backends sync interrupted by shutdown
+console.warn: services.settings: main/language-dictionaries sync interrupted by shutdown
+console.warn: services.settings: main/password-recipes sync interrupted by shutdown
+console.warn: services.settings: main/password-rules sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/fxmonitor-breaches getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1726788691103	geckodriver	INFO	Listening on 127.0.0.1:52289
+1726788691473	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... ss" "--remote-debugging-port" "37135" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebtsCGD"
+*** You are running in headless mode.
+Gtk-Message: 19:31:31.522: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1726788691877	Marionette	INFO	Marionette enabled
+1726788692014	Marionette	INFO	Listening on port 39957
+WebDriver BiDi listening on ws://127.0.0.1:37135
+Read port: 39957
+1726788692257	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://cdn.intergient.com/pageos/1.10.65/videoCard.5ed8eb34c11835040def.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/playwireprebidheader597261727146/moatheader.js, line 146: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1726788736618	Marionette	INFO	Stopped listening on port 39957
+1726788812989	geckodriver	INFO	Listening on 127.0.0.1:36593
+1726788813354	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... ss" "--remote-debugging-port" "44979" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5MrMOE"
+*** You are running in headless mode.
+Gtk-Message: 19:33:33.405: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1726788813782	Marionette	INFO	Marionette enabled
+1726788813923	Marionette	INFO	Listening on port 46247
+WebDriver BiDi listening on ws://127.0.0.1:44979
+Read port: 46247
+1726788814144	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+JavaScript warning: https://cdn.intergient.com/pageos/1.10.65/videoCard.5ed8eb34c11835040def.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/playwireprebidheader597261727146/moatheader.js, line 146: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1726788823511	Marionette	INFO	Stopped listening on port 46247
