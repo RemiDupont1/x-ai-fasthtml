@@ -39,7 +39,6 @@ def generate_post(text, prompt=prompt, max_length=None):
     tweets = session.query(Tweet).order_by(Tweet.id.desc()).limit(10).all()
     logtweet_content = " --- ".join([tweet.text for tweet in tweets])
     session.close()
-    breakpoint()
 
     # Prepare messages for the OpenAI API
     messages = [
