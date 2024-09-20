@@ -113,8 +113,8 @@ def get():
 def hello_world():
     current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     print("calling main_X.main")
-    1/0
-    # main_X.main()
+    # 1/0
+    main_X.main()
     return Button(f"Hello World! Button clicked at {current_time}", cls="btn btn-outline btn-success")
 
 # def get_all_clicks():

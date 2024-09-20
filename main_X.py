@@ -13,6 +13,7 @@ def download_html(url):
 
 
 def main():
+    print("entering main_X.main")
     url = "https://www.allmusic.com/newreleases"
     file_content = download_html(url)
     print("file_content ok")
