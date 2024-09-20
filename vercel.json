@@ -1,6 +1,6 @@
 {
   "functions": {
-    "/*.py": {
+    "./*.py": {
       "maxDuration": 30
     }
   }
