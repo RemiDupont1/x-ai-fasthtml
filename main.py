@@ -98,28 +98,29 @@ def get():
 
 
 # Add a new route to load clicks
-@rt("/load-clicks")
-def load_clicks():
-    global first_time
-    if first_time:
-        Base.metadata.create_all(engine)
-        first_time = False
+# @rt("/load-clicks")
+# def load_clicks():
+#     global first_time
+#     if first_time:
+#         Base.metadata.create_all(engine)
+#         first_time = False
 
-    clicks = get_all_clicks()
-    click_list = Ul(*[Li(f"Click at {click.timestamp}") for click in clicks])
-    return click_list
+#     clicks = get_all_clicks()
+#     click_list = Ul(*[Li(f"Click at {click.timestamp}") for click in clicks])
+#     return click_list
 
 @rt("/hello-world", methods=["POST"])
 def hello_world():
     current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     print("calling main_X.main")
-    main_X.main()
+    1/0
+    # main_X.main()
     return Button(f"Hello World! Button clicked at {current_time}", cls="btn btn-outline btn-success")
 
-def get_all_clicks():
-    session = Session()
-    clicks = session.query(Click).all()
-    session.close()
-    return clicks
+# def get_all_clicks():
+#     session = Session()
+#     clicks = session.query(Click).all()
+#     session.close()
+#     return clicks
 
 serve()
