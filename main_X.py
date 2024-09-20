@@ -15,13 +15,9 @@ def download_html(url):
 def main():
     url = "https://www.allmusic.com/newreleases"
     file_content = download_html(url)
-    
-    # Écrire le résultat dans un fichier
-    
-    # Lire le contenu du fichier pour vérification
-    
+    print("file_content ok")
     tweet = generate_post(file_content, max_length=280)
-    print(tweet)
+    print("tweet", tweet)
     messages = [
         {"role": "user", "content": f"there is a tweet : {tweet} give me the title of the album/song and the artist. Your answer should be in the format : title by artist, nothing else"}
     ]
