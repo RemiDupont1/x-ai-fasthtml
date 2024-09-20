@@ -112,16 +112,8 @@ def load_clicks():
 @rt("/hello-world", methods=["POST"])
 def hello_world():
     current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    
-    # Save to database
-    # session = Session()
-    # new_click = Click()
-    # session.add(new_click)
-    # session.commit()
-    # session.close()
-    print("hello world")
+    print("calling main_X.main")
     main_X.main()
-    
     return Button(f"Hello World! Button clicked at {current_time}", cls="btn btn-outline btn-success")
 
 def get_all_clicks():
