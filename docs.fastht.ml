@@ -6,7 +6,6 @@
 - Use `serve()` for running uvicorn (`if __name__ == "__main__"` is not needed since it's automatic)
 - When a title is needed with a response, use `Titled`; note that that already wraps children in `Container`, and already includes both the meta title as well as the H1 element.<docs><doc title="FastHTML quick start" desc="A brief overview of many FastHTML features"># Web Devs Quickstart
 
-
 ## Installation
 
 ``` bash
