@@ -1,0 +1,42 @@
+conda-forge/linux-64                                        Using cache
+conda-forge/noarch                                          Using cache
+Transaction
+
+  Prefix: /home/remi/miniconda3/envs/x_mamba
+
+  Updating specs:
+
+   - sqlalchemy
+   - ca-certificates
+   - certifi
+   - openssl
+
+
+  Package       Version  Build            Channel          Size
+─────────────────────────────────────────────────────────────────
+  Install:
+─────────────────────────────────────────────────────────────────
+
+  + greenlet      3.1.0  py311hfdbb021_2  conda-forge     237kB
+  + sqlalchemy   2.0.34  py311h9ecbd09_1  conda-forge       4MB
+
+  Summary:
+
+  Install: 2 packages
+
+  Total download: 4MB
+
+─────────────────────────────────────────────────────────────────
+
+
+Confirm changes: [Y/n] 
+Looking for: ['sqlalchemy']
+
+
+Pinned packages:
+  - python 3.11.*
+
+
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
