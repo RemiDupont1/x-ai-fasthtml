@@ -1,24 +1,26 @@
+import requests
 from LLM import generate_post, call_openai
 from X_utils import post_tweet
 from google_image import telecharger_image_album
 
-from playwright.sync_api import sync_playwright
-
 def download_html(url):
-    with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)
-        page = browser.new_page()
-        page.goto(url)
-        page.wait_for_load_state('networkidle')
-        html_content = page.content()
-        browser.close()
-        return html_content
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+    }
+    response = requests.get(url, headers=headers)
+    response.raise_for_status()
+    return response.text
+
 
 def main():
     url = "https://www.allmusic.com/newreleases"
-    rendered_html = download_html(url)
-    print(rendered_html)
-    tweet = generate_post(rendered_html, max_length=280)
+    file_content = download_html(url)
+    
+    # Écrire le résultat dans un fichier
+    
+    # Lire le contenu du fichier pour vérification
+    
+    tweet = generate_post(file_content, max_length=280)
     print(tweet)
     messages = [
         {"role": "user", "content": f"there is a tweet : {tweet} give me the title of the album/song and the artist. Your answer should be in the format : title by artist, nothing else"}
