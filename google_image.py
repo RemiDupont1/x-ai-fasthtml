@@ -27,7 +27,7 @@ def telecharger_image_album(titre_album):
     img_data = requests.get(img_url).content
     
     # Sauvegarder l'image
-    nom_fichier = f"data/images/{titre_album.replace(' ', '_')}.jpg"
+    nom_fichier = f"/tmp/{titre_album.replace(' ', '_')}.jpg"
     os.makedirs(os.path.dirname(nom_fichier), exist_ok=True)
     with open(nom_fichier, 'wb') as handler:
         handler.write(img_data)
